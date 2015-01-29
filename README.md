@@ -27,11 +27,11 @@ rails s
 http://guides.rubyonrails.org/getting_started.html
 
 
-### Goals
+## Goals
 
 Build a basic Wikipedia article viewer web application that allows a user to view random article extracts. Follow the requirements to the best of your ability. Your app will be judged not only by the effectiveness and efficiency of your programmatic solution, but on the overall experience the app provides.
 
-## Requirements
+### Requirements
 - Consume wikipedia's restful JSON API
 - View random article - 1st paragraph only
 - Ignore user chatter/talk (check out namespaces in the API)
@@ -42,13 +42,13 @@ Build a basic Wikipedia article viewer web application that allows a user to vie
 - Not allowed to use any CSS frameworks.
 - Usable on mobile and laptop/desktop, IE9+ (Responsive and Cross Browser)
 
-## Technology Requirments
+### Technology Requirments
 - jQuery
 - HTML5 (proper use of)
 - SASS
 - CoffeeScript
 
-## Functionality Suggestions (Not requirements)
+### Functionality Suggestions (Not requirements)
 - Choose number of articles displayed
 - Display article image
 - Link to main article
@@ -56,5 +56,5 @@ Build a basic Wikipedia article viewer web application that allows a user to vie
 - Limit by user specified category
 - Anything else that would make a cool/useful feature
 
-## WIKI API url:
+### WIKI API url:
 - http://en.wikipedia.org/w/api.php
